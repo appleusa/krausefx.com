@@ -75,7 +75,7 @@ GEM
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
     unicode-display_width (2.5.0)
-    webrick (1.8.1)
+    webrick (1.8.2)
 
 PLATFORMS
   ruby
@@ -88,7 +88,7 @@ DEPENDENCIES
   jekyll-twitter-plugin
   minima (~> 2.5)
   pry
-  webrick
+  webrick (>= 1.8.2)
 
 BUNDLED WITH
-   2.2.22
+   2.1.4
